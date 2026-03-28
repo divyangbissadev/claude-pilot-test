@@ -1,9 +1,9 @@
-# Claude Pilot Tset
+# Claude Pilot Test
 
-This is a tset repository for Claude Pilot. It demonstraets the auto-fix feature.
+This is a test repository for Claude Pilot. It demonstrates the auto-fix feature.
 
-## Feautres
+## Features
 
-- Atuomatic issue detection
-- WhatsApp notificaitons
-- Claud Code integraton
+- Automatic issue detection
+- WhatsApp notifications
+- Claude Code integration
